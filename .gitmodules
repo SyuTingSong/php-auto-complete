@@ -1,0 +1,3 @@
+[submodule "swoole"]
+	path = swoole
+	url = git@github.com:SyuTingSong/swoole-auto-complete.git
