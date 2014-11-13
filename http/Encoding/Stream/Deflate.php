@@ -1,7 +1,7 @@
 <?php
 namespace http\Encoding\Stream;
 
-class Deflate {
+class Deflate extends \http\Encoding\Stream {
     /**
      * Gzip encoding. RFC1952
      */

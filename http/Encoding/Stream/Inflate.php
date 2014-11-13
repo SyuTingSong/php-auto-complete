@@ -1,7 +1,7 @@
 <?php
 namespace http\Encoding\Stream;
 
-class Inflate {
+class Inflate extends \http\Encoding\Stream {
 
     /**
      * Decode deflate/zlib/gzip encoded data.

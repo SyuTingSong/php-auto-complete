@@ -1,7 +1,7 @@
 <?php
 namespace http\Env;
 
-class Request {
+class Request extends \http\Message {
     protected $query = null;
     protected $form = null;
     protected $files = null;

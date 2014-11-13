@@ -1,7 +1,7 @@
 <?php
 namespace http\Env;
 
-class Response {
+class Response extends \http\Message {
     /**
      * Do not use content encoding.
      */

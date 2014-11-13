@@ -1,7 +1,7 @@
 <?php
 namespace http\Encoding\Stream;
 
-class Dechunk {
+class Dechunk extends \http\Encoding\Stream {
     /**
      * @param string $data
      * @param int $decoded_len

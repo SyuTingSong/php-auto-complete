@@ -1,7 +1,7 @@
 <?php
 namespace http\Client;
 
-class Response {
+class Response extends \http\Message {
     /**
      * Extract response cookies.
      *

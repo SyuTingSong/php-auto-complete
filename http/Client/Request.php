@@ -1,7 +1,7 @@
 <?php
 namespace http\Client;
 
-class Request {
+class Request extends \http\Message {
     /**
      * Create a new client request message to be enqueued and sent by http\Client.
      *
