@@ -59,7 +59,7 @@ class Client implements SplSubject, Countable {
      * @param callable $cb
      * @return \http\Client
      */
-    function enqueue($request, $cb) {}
+    function enqueue($request, $cb=null) {}
 
     /**
      * List available drivers
