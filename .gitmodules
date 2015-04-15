@@ -1,0 +1,3 @@
+[submodule "swoole"]
+	path = swoole
+	url = git@github.com:eaglewu/swoole-ide-helper.git
