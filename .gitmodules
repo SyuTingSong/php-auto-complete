@@ -1,3 +1,6 @@
 [submodule "swoole"]
 	path = swoole
 	url = git@github.com:eaglewu/swoole-ide-helper.git
+[submodule "yaf"]
+	path = yaf
+	url = git@github.com:elad-yosifon/php-yaf-doc.git
